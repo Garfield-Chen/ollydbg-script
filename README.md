@@ -3,7 +3,7 @@
 ####clone本仓库
 
 ```
-git clone https://github.com/dubuqingfeng/ollydbg-script.git
+git clone https://github.com/Garfield-Chen/ollydbg-script.git
 ```
 
 ####或者点击zip下载
